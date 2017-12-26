@@ -1,0 +1,10 @@
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\bin\Debug\netcoreapp1.1\ProjectTest.deps.json
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\bin\Debug\netcoreapp1.1\ProjectTest.runtimeconfig.json
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\bin\Debug\netcoreapp1.1\ProjectTest.runtimeconfig.dev.json
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\bin\Debug\netcoreapp1.1\ProjectTest.dll
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\bin\Debug\netcoreapp1.1\ProjectTest.pdb
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\obj\Debug\netcoreapp1.1\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\obj\Debug\netcoreapp1.1\ProjectTest.AssemblyInfo.cs
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\obj\Debug\netcoreapp1.1\ProjectTest.dll
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\obj\Debug\netcoreapp1.1\ProjectTest.pdb
+C:\Users\acehq\Desktop\MedicoTest\ProjectTest\ProjectTest\obj\Debug\netcoreapp1.1\ProjectTest.csprojResolveAssemblyReference.cache
